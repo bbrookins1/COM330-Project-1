@@ -1,0 +1,19 @@
+My name is Barry Brookins and I am a third year Mechanical Engineering student.
+I was born and raised in Chicago, and attended Whitney M. Young Magnet High
+School. I engage in a wide variety of sports, most notably track & field
+(participating for Illinois Tech), football, and basketball. I have only been
+interested in programming since my senior year of high school but have coded
+many projects in Python since then, some scripts including: Web Scraping &
+Automation, Algorithms, Image To Text, Multithreading, and Path Prediction.
+
+With this class I plan on learning more than enough about web design in order to
+create a professional portfolio website detailing my internships, engineering
+projects, and other experience as well as create another website for my
+business, with more graphically interesting designs.
+
+For a few years now I have been interested in autonomous vehicles and everything
+about them so in the future, after I graduate, I plan on working with autonomous
+vehicles. I haven't found many websites detailing all that goes into professions
+of the sort even though I feel like many people would be interested in them, so
+if that does work out I plan on having a website detailing the profession to
+those interested.

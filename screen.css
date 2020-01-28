@@ -1,0 +1,7 @@
+html {
+    color: rgb(113,219,119);
+    background-color: transparent;
+    background-image: linear-gradient(rgba(150, 0, 100, 0.7), rgba(255, 0, 0, 0.7)),
+                  url("tesla.png");
+    font-family: Helvetica, Arial, sans-sans-serif;
+}
