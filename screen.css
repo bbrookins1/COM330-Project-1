@@ -55,6 +55,7 @@ table {
 h1 {
     color: rgb(113,219,119);
     font-family: Helvetica, Arial;
+    -webkit-text-stroke: .5px rgb(113,259,119);
     font-size: 2.5em;
     padding-top: .25em;
     padding-bottom: .5em;
