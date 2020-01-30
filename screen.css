@@ -36,7 +36,7 @@ ol {
 }
 ul {
 	list-style: circle;
-  margin: 20px;
+  margin: 25px;
 }
 blockquote, q {
 	quotes: none;
@@ -56,6 +56,7 @@ h1 {
     color: rgb(113,219,119);
     font-family: Helvetica, Arial;
     font-size: 2.5em;
+    padding-top: .25em;
     padding-bottom: .5em;
     text-decoration:underline;
 
