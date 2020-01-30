@@ -55,21 +55,22 @@ table {
 h1 {
     color: rgb(113,219,119);
     font-family: Helvetica, Arial;
-    font-size: 2em;
+    font-size: 2.5em;
     padding-bottom: .5em;
+    text-decoration:underline;
 
 }
 p {
     color: rgb(113,219,119);
     font-family: Helvetica, Arial;
-    font-size: 1.25em;
+    font-size: 1.3em;
     padding-bottom: 0.75em;
     line-height: 1.2em;
 }
 ul {
     color: rgb(113,219,119);
     font-family: Helvetica, Arial;
-    font-size: 1.25em;
+    font-size: 1.3em;
     line-height: 1.2em;
 }
 html {
